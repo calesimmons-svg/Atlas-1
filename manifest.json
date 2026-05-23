@@ -1,0 +1,19 @@
+{
+  "name": "Flight Time Calculator",
+  "short_name": "Flight Time",
+  "description": "Flight time logger and nap calculator for extended operations",
+  "start_url": "/Atlas-1/",
+  "scope": "/Atlas-1/",
+  "display": "standalone",
+  "background_color": "#0e0f11",
+  "theme_color": "#0e0f11",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%230e0f11'/%3E%3Cpath d='M155 148L138 80l30-30c13-13 13-22 4-31s-18-9-31 4l-30 30L14 46c-4-1-8 1-10 5l-3 5c-2 4-1 9 3 12L68 96l-18 27H26l-9 9 27 18 18 27 9-9V141l27-18 30 45c3 4 7 5 11 3l5-2c4-3 5-7 4-11z' fill='%2360a5fa'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
